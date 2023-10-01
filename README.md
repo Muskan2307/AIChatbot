@@ -21,10 +21,12 @@ URLs=[
 
 # Examples/Test Cases
 Test Case 1: Who lives in wisdom
+
 Answer by chatbot: The wise men who have faith in Me, worship Me with this knowledge. Also, those who live in wisdom are those who see themselves in all and all in them. 
 Furthermore, he who has faith and has mastered his sense, devoted to spiritual practices attains knowledge and having attained knowledge, he quickly attains supreme peace.
 
 Test Case 2: What can we offer to Lord
+
 Answer by chatbot: According to the Bhagavad Gita, we can offer our surrender, service, and work with the welfare of others in mind to the Lord. Chanting the name of the Lord is also considered an offering, 
 as it creates a shield of protection and has the power to cure and bring peace. Ultimately, whatever path one may take, it leads to the Lord in the end. 
 The Lord accepts the love and devotion of His devotees and enters into all aspects of creation. Udhdhava expressed his refuge and desire to remain forever faithful to the lotus feet of the Lord.
