@@ -3,7 +3,11 @@ AI Chatbot which answers User’s queries/life problems by quoting examples from
 
 # Usage
 Set up your own API Key using the email id where the credits are available and paste that.
+![image](https://github.com/Muskan2307/AIChatbot/assets/93080620/7874553f-a1c0-43f4-bf3f-c0c1191d8338)
+
     os.environ['OPENAI_API_KEY'] = 'your-api-key'
+![image](https://github.com/Muskan2307/AIChatbot/assets/93080620/30be7dc0-a262-41ae-8544-943291c586bb)
+
 Also create a hugggingface token with write access
     Site: https://huggingface.co/settings/tokens
     Use it during login whenever code demands.
